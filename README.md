@@ -1,19 +1,18 @@
-# tg-bot на Python
-Astrology telegram bot
-### Небольшой телеграм бот, позволяющий получить ответ магического шара и предсказание на день.
+#### telegram bot in Python
+# Astrology telegram bot allowing you to get the answer of the magic ball and prediction for the day.
 
-Бот на эзотерическую тему, функционал - две кнопки. Первая кнопка - магический шар(случайный ответ из 20 возможных как и в традиционном магическом шаре), вторая кнопка - карта дня(пользователю выпадает случайная карта таро из 78 возможных). Реализация через модуль random. Картинки и текст для ответа берется из базы данных, сам бот лежит на хостинге.
+Bot on an esoteric theme, functionality - two buttons. The first button is a magic ball (random answer from 20 possible as in a traditional magic ball), the second button is a card of the day (the user gets a random tarot card from 78 possible). The SQLIte database is used.
 
-**Сам бот**
+**initial message**
 
 ![Начальное сообщение пользователю](https://github.com/vorobushku/tg-bot/blob/main/2.png)
 
 ![Начальное сообщение пользователю](https://github.com/vorobushku/tg-bot/blob/main/2.1.png)
 ***
-**- Магический шар**
+**- magic ball**
 
 ![Магический шар](https://github.com/vorobushku/tg-bot/blob/main/2.2.png)
 
-**- Карта дня**
+**- card of the day**
 
 ![Карта дня](https://github.com/vorobushku/tg-bot/blob/main/2.3.png)
